@@ -1,0 +1,574 @@
+.small{
+	
+	background-color:rgb(102,204,204);
+	text-align:center;
+    text-decoration:none;
+    padding:10px 10px 10px 875px;
+    margin:-9px -8px 0px -9px;
+    font-family:sans-serif;
+    font-size: 62%;
+	color:white;
+	
+	
+	display:flex;
+	flex-direction:row;
+	gap:25px;
+	
+}
+.small a{
+	text-decoration:none;
+	color:white;
+}
+.small a:hover{
+	color:gold;
+}
+
+.small2{
+	
+	background-color:rgb(102,204,204);
+	text-align:center;
+    text-decoration:none;
+    padding:15px 0px 15px 40px;
+    margin:-8px -8px -8px -8px;
+    font-family:sans-serif;
+    font-size: 62%;
+	color:white;
+	
+	
+	display:flex;
+	flex-direction:row;
+	gap:810px;
+	
+}
+.small2a{
+	 padding:0px 0px 0px 0px;
+    margin:0px 0px 0px 0px;
+	
+	
+	display:flex;
+	flex-direction:row;
+	gap:25px;
+	
+	}
+.small2b{
+	 padding:0px 0px 0px 0px;
+    margin:0px 0px 0px 0px;
+	
+	
+	display:flex;
+	flex-direction:row;
+	gap:25px;
+	 font-size: 105%;
+	}
+
+.small2 a{
+	text-decoration:none;
+	color:white;
+}
+.small2 a:hover{
+	color:gold;
+}
+.main{
+	
+	background-color:white;
+	text-align:center;
+    text-decoration:none;
+    padding:0px 0px 0px 100px;
+    margin:0px 0px 0px 0px;
+    font-family:sans-serif;
+    font-size: 17px;
+	color:white;
+    font-weight:700;
+	
+	
+	
+
+	display:flex;
+	flex-direction:row;
+	gap:25px;
+	
+}
+.main a{
+	text-decoration:none;
+	color:rgb(102,204,204);
+	
+	
+}
+.main a:hover{
+	text-decoration:none;
+	color:gray;
+	
+	
+}
+.main2{
+	padding:35px 0px 0px 125px;
+    margin:0px 0px 0px 90px;
+	
+	
+	display:flex;
+	flex-direction:row;
+	gap:25px;
+}
+.second{
+	
+	background-color:rgb(236,255,255);
+	text-align:left;
+    text-decoration:none;
+    padding:70px 0px 70px 0px;
+    margin:0px 0px 0px 0px;
+    font-family:sans-serif;
+    font-size: 18px;
+	color:black;
+	
+    
+
+	display:flex;
+	flex-direction:row;
+	gap:25px;
+	
+}
+.second2{
+	padding:25px 15px 25px 290px;
+    margin:0px 0px 0px 0px;
+	
+	
+	
+}
+.second h2{
+	font-weight:10;
+	text-align:left;
+	
+	
+	
+}
+.second p{
+	
+	text-align:left;
+	
+}
+input[type=submit]{
+  background-color:rgb(154,221,221);
+  border: 3px solid rgb(154,221,221);
+ 
+  color:black;
+  padding: 15px 15px 15px 15px;
+  text-decoration: none;
+  margin: 5px 5px 5px 5px;
+  cursor: pointer;
+   box-sizing:border-box;
+   font-size:14px;
+   
+   text-align:center;
+   font-family:sans-serif;
+   
+}
+input[type=submit]:hover{
+  background-color:gold;
+  border: 3px solid gold;
+ 
+  color:black;
+  padding: 15px 15px 15px 15px;
+  text-decoration: none;
+  margin: 5px 5px 5px 5px;
+  cursor: pointer;
+   box-sizing:border-box;
+   font-size:14px;
+   
+   text-align:center;
+   font-family:sans-serif;
+   
+}
+.third{
+	
+	background-color:rgb(242,242,242);
+	text-align:center;
+    text-decoration:none;
+    padding:50px 0px 70px 0px;
+    margin:0px 0px 0px 0px;
+    font-family:sans-serif;
+    font-size: 18px;
+	color:black;
+	font-weight:10;
+	
+}
+.thirda{
+	
+	background-color:rgb(242,242,242);
+	text-align:left;
+    text-decoration:none;
+    padding:50px 0px 70px 130px;
+    margin:0px 0px 0px 0px;
+    font-family:sans-serif;
+    font-size: 18px;
+	color:black;
+	
+	
+	display:flex;
+	flex-direction:row;
+	gap:25px;
+	
+	
+}
+.thirda1{
+	height:646px;
+	border:1px solid gray;
+	padding:0px 0px 0px 0px;
+    margin:0px 0px 0px 0px;
+	background-color:white;
+	
+}
+.thirda11{
+
+	padding:0px 20px 0px 20px;
+    margin:0px 0px 0px 0px;
+}
+.third a{
+	text-decoration:none;
+	color:rgb(102,204,204);
+	font-size:17px;
+	
+	
+}
+.third a:hover{
+	text-decoration:none;
+	color:gold;
+	font-size:17px;
+	
+	
+}
+.fourth{
+	background-color:white;
+	text-align:center;
+    text-decoration:none;
+    padding:100px 0px 100px 110px;
+    margin:0px 0px 0px 0px;
+    font-family:sans-serif;
+    font-size: 18px;
+	color:black;
+	
+	
+	display:flex;
+	flex-direction:row;
+	gap:75px;
+	
+}
+#fourth1{
+	background-color:rgb(221,221,221);
+	margin:10px 15px 10px 15px;
+	padding:10px 10px 10px 10px;
+	border:1px solid rgb(221,221,221);
+	
+}
+.fourth1{
+	background-color:rgb(245,245,245);
+	border-radius:50px;
+	margin:35px 15px 10px 30px;
+	padding:14px 14px 0px 15px;
+}
+.fourth1 a{
+	
+	color:rgb(102,204,204);
+	
+}
+.fourth1 a:hover{
+	
+	color:gold;
+	
+}
+.fourtha{
+	display:flex;
+	flex-direction:row;
+	
+	
+}
+#search{
+	
+	margin:0px -20px 0px 0px;
+	padding:5px 0px 5px 0px;
+	
+}
+#fourth1{
+	margin:0px 0px 10px 15px;
+	padding:10px 10px 10px 10px;
+}
+#fourth2{
+	margin:0px 0px -10px -7px;
+	padding:5px 0px 5px 0px;
+	
+}
+.thirda2{
+	border:1px solid gray;
+	margin:0px 0px 0px 0px;
+	padding:15px 15px 15px 15px;
+	background-color:white;
+}
+.thirda2 a{
+	color:black;
+	
+}
+.thirda2 a:hover{
+	color:rgb(102,204,204);
+	
+}
+.icon1{
+	margin:0px 0px 0px 0px;
+	padding:5px 10px 5px 50px;
+	display:flex;
+	flex-direction:row;
+	gap:30px;
+}
+.icon1 a{
+	border:1px solid rgb(102,204,204);
+	background-color:rgb(102,204,204);
+	border-radius:50px;
+	margin:0px 0px 0px 0px;
+	padding:15px 10px 10px 10px;
+	color:white;
+}
+.icon1 a:hover{
+	
+	color:gold;
+}
+.icon2{
+	margin:0px 0px 0px 0px;
+	padding:20px 0px 0px 160px;
+	display:flex;
+	flex-direction:row;
+    gap:60px;	
+}
+.icon2 a:hover{
+	
+	color:gold;
+}
+.icon2 a{
+	border:1px solid rgb(102,204,204);
+	background-color:rgb(102,204,204);
+	border-radius:50px;
+	margin:0px 0px 0px 0px;
+	padding:15px 10px 10px 10px;
+	color:white;
+}
+.rss{
+	
+	display:flex;
+	flex-direction:row;
+	gap:20px;
+}
+.fourtha1{
+	
+	border:1px solid gray;
+	padding:0px 0px 0px 0px;
+    margin:0px 0px 0px 0px;
+	background-color:white;
+	
+}
+.fourtha11{
+
+	padding:0px 20px 0px 20px;
+    margin:0px 0px 0px 0px;
+}
+.eve{
+	
+	background-color:rgb(255,239,242);
+	text-align:left;
+    text-decoration:none;
+    padding:70px 0px 70px 0px;
+    margin:0px 0px 0px 0px;
+    font-family:sans-serif;
+    font-size: 18px;
+	color:black;
+	
+    
+
+	display:flex;
+	flex-direction:row;
+	gap:25px;
+	
+}
+.eve1{
+	padding:25px 15px 25px 290px;
+    margin:0px 0px 0px 0px;
+}
+.eve h2{
+	font-weight:10;
+	text-align:left;
+}
+.eve p{
+	
+	text-align:left;
+}
+
+.eve2{
+	
+	background-color:white;
+	text-align:left;
+    text-decoration:none;
+    padding:30px 0px 30px 190px;
+    margin:0px 0px 0px 0px;
+    font-family:sans-serif;
+    font-size: 17px;
+	color:black;
+
+	
+	display:flex;
+	flex-direction:row;
+	gap:115px;
+	
+}
+
+.faq2{
+	
+	background-color:white;
+	text-align:left;
+    text-decoration:none;
+    padding:25px 0px 0px 0px;
+    margin:10px 0px 0px 50px;
+    font-family:sans-serif;
+    font-size: 17px;
+	color:white;
+    
+}
+
+.faq3{
+	background-color:rgb(180,225,224);
+	text-align:left;
+    text-decoration:none;
+    padding:50px 0px 125px 115px;
+    margin:0px -8px 0px -8px;
+    font-family:sans-serif;
+	color:black;
+	font-size:37px;
+	
+}
+
+#faq3{
+	border:1x solid rgb(180,225,224);
+	margin:0px 0px 0px 0px;
+	padding:15px 315px 15px 15px;
+	
+}
+
+.faq4{
+	
+	background-color:white;
+	text-align:center;
+    text-decoration:none;
+    padding:0px 0px 0px 0px;
+    margin:0px 0px 0px 0px;
+    font-family:sans-serif;
+    font-size: 62%;
+	color:black;
+	
+	
+	display:flex;
+	flex-direction:row;
+	gap:345px;
+	
+}
+.faq4a{
+	
+	background-color:white;
+	text-align:left;
+    text-decoration:none;
+    padding:0px 0px 0px 125px;
+    margin:0px 0px 0px 0px;
+    font-family:sans-serif;
+    font-size: 220%;
+	color:black;
+	
+}
+.faq4a p{
+	font-size:19px;
+	
+	
+}
+.faq4b{
+	background-color:rgb(247,247,247);
+	text-align:left;
+    text-decoration:none;
+    padding:0px 175px 0px 35px;
+    margin:0px 0px 0px -281px;
+    font-family:sans-serif;
+    font-size: 220%;
+	color:black;
+	
+	
+}
+.faq4b p{
+	font-size:19px;
+	
+}
+.faq4b p:hover{
+	color:rgb(102,204,204);
+	
+	
+}
+.faq5{
+	background-color:rgb(244,244,244);
+	text-align:left;
+    text-decoration:none;
+    padding:30px 0px 0px 90px;
+    margin:0px 0px 0px 0px;
+    font-family:sans-serif;
+    font-size: 62%;
+	color:black;
+	
+	display:flex;
+	flex-direction:row;
+	gap:50px;
+	
+}
+.faq5 a{
+	text-decoration:none;
+	font-size:11px;
+	color:gray;
+	
+	
+	
+}
+.faq5 a:hover{
+	color:rgb(102,204,204);
+	
+	
+}
+.faq6 a:hover{
+	color:rgb(102,204,204);
+	
+	
+}
+.faq6{
+	background-color:rgb(29,36,45);
+	text-align:left;
+    text-decoration:none;
+    padding:10px 0px 10px 85px;
+    margin:0px -8px -8px -8px;
+    font-family:sans-serif;
+    font-size: 62%;
+	color:black;
+	
+	display:flex;
+	flex-direction:row;
+	gap:635px;
+	
+}
+
+.faq6 a{
+	text-decoration:none;
+	color:white;
+	
+}
+.faq6 p{
+	color:white;
+	
+	
+}
+.faq6b{
+	padding:10px 0px 0px 0px;
+	
+	display:flex;
+	flex-direction:row;
+	gap:20px;
+	
+	
+	
+}
